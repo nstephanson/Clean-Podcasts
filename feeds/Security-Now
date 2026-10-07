@@ -47,8 +47,7 @@
 			<link>https://twit.tv/shows/security-now</link>
 		</image>
 		<itunes:image href="https://elroy.twit.tv/sites/default/files/styles/twit_album_art_2048x2048/public/images/shows/security_now/album_art/audio/sn2022_albumart_standard_2400.jpg" />
-		<itunes:new-feed-url>https://feeds.twit.tv/sn.xml</itunes:new-feed-url>
-		<rawvoice:subscribe feed="https://feeds.twit.tv/sn.xml" itunes="https://podcasts.apple.com/us/podcast/security-now-audio/id79016499" tunein="http://tun.in/pe8vV" html="https://twit.tv/shows/security-now"></rawvoice:subscribe>
+		<rawvoice:subscribe feed="https://raw.githubusercontent.com/nstephanson/Clean-Podcasts/main/feeds/Security-Now" itunes="https://podcasts.apple.com/us/podcast/security-now-audio/id79016499" tunein="http://tun.in/pe8vV" html="https://twit.tv/shows/security-now"></rawvoice:subscribe>
 		<atom:link href="https://raw.githubusercontent.com/nstephanson/Clean-Podcasts/main/feeds/Security-Now" type="application/rss+xml" rel="self"/>
 		<item>
 			<title>SN 1099: An Alien Mind - From RSA Weakness to Agentic Attacks</title>
