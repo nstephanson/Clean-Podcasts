@@ -1,3 +1,3 @@
 # Clean Podcasts
 
-Ad-free Security Now episodes for personal use.
+Ad-free AI cleaned episodes for personal use.
