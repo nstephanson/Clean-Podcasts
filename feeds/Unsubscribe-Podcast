@@ -49,7 +49,7 @@ Edits made: removed 10 ad segments totaling 23.1 minutes.
 - Link (payment ad): 0.4 min
 
 A short swish sound marks each edit.
-A QA reel with all removed segments is available as "Ads cut from [episode title]" in this feed.
+A QA reel with all removed segments is available as "Ads cut from Baby Donut Is Coming & The Serial Killer Deep Dive | Unsubscribe Podcast Ep 284" in this feed.
 
 The gang is together again and Cody has a special announcement! 
 
@@ -359,7 +359,7 @@ Edits made: removed 8 ad segments totaling 18.8 minutes.
 - Mint Mobile: 0.6 min
 
 A short swish sound marks each edit.
-A QA reel with all removed segments is available as "Ads cut from [episode title]" in this feed.
+A QA reel with all removed segments is available as "Ads cut from The Fat Electrician Vs Buc-ee’s & Angry Cops Jumpout Boy Stories | Unsubscribe Podcast Ep 283" in this feed.
 
 Our favorite jumpout boy is back and Uncle Trout joins us! 
 
@@ -4398,7 +4398,21 @@ Chapters:
     </item>
     <item>
       <title>The America-Loving Japanese Cafe Owner That Went Viral | Unsubscribe Podcast 268</title>
-      <description>Watch this episode ad-free and uncensored on Pepperbox! https://www.pepperbox.tv/joinunsubscribe
+      <description>———————————————————
+
+Edits made: removed 6 ad segments totaling 8.0 minutes.
+
+- duplicate-1: 1.1 min
+- cluster/duplicate:CASHAPP: 1.1 min
+- duplicate-4: 1.1 min
+- duplicate-6: 1.1 min
+- brand/cluster:QUO: 2.8 min
+- cluster/duplicate:PONCHO OUTDOORS: 0.8 min
+
+A short swish sound marks each edit.
+A QA reel with all removed segments is available as "Ads cut from The America-Loving Japanese Cafe Owner That Went Viral | Unsubscribe Podcast 268" in this feed.
+
+Watch this episode ad-free and uncensored on Pepperbox! https://www.pepperbox.tv/joinunsubscribe
 
 Fumio Funaki is a Japanese cafe owner and English teacher. He recently went viral after being featured in a video by Adam Matheson. Fumio has now returned to visit America with his daughter Nana after almost 50 years! ​⁠Subscribe to their channel!  @cafetheluckyboots  
 
@@ -4668,11 +4682,32 @@ Chapters:
 1:42:53 Nana Brought Us Gifts!
 1:51:09 The Boiled Egg Story</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://podcastchoices.com/adchoices">podcastchoices.com/adchoices</a></p>]]>
       </content:encoded>
-      <itunes:duration>7612</itunes:duration>
+      <itunes:duration>1:57:12</itunes:duration>
       <itunes:explicit>yes</itunes:explicit>
       <guid isPermaLink="false"><![CDATA[4c3dd71c-4720-11f1-8ab7-abf8d375fb9c]]></guid>
-      <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD9407642071.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://github.com/nstephanson/Clean-Podcasts/releases/download/the-america-loving-japanese-cafe-owner-t/the-america-loving-japanese-cafe-owner-that-went-viral-unsub-cleaned.mp3" length="112623282" type="audio/mpeg"/>
     </item>
+<item><title>Ads cut from The America-Loving Japanese Cafe Owner That Went Viral | Unsubscribe Podcast 268</title><description><![CDATA[QA reel: ad segments removed from "The America-Loving Japanese Cafe Owner That Went Viral | Unsubscribe Podcast 268". Listen to verify no wanted content was cut.
+
+Clips:
+0:00 - duplicate-1 (65s)
+1:05 - cluster/duplicate:CASHAPP (66s)
+2:11 - duplicate-4 (66s)
+3:16 - duplicate-6 (66s)
+4:22 - brand/cluster:QUO (170s)
+7:12 - cluster/duplicate:PONCHO OUTDOORS (46s)
+
+———————————————————
+
+Edits made: removed 6 ad segments totaling 8.0 minutes.
+
+- duplicate-1: 1.1 min
+- cluster/duplicate:CASHAPP: 1.1 min
+- duplicate-4: 1.1 min
+- duplicate-6: 1.1 min
+- brand/cluster:QUO: 2.8 min
+- cluster/duplicate:PONCHO OUTDOORS: 0.8 min]]></description><enclosure url="https://github.com/nstephanson/Clean-Podcasts/releases/download/the-america-loving-japanese-cafe-owner-t/the-america-loving-japanese-cafe-owner-that-went-viral-unsub-ads-cut.mp3" length="7659538" type="audio/mpeg"/><guid isPermaLink="false">4c3dd71c-4720-11f1-8ab7-abf8d375fb9c-ads-reel</guid><pubDate>Sun, 14 Jun 2026 21:12:00 -0000</pubDate><itunes:duration>0:07:58</itunes:duration><itunes:episodeType>bonus</itunes:episodeType><itunes:explicit>yes</itunes:explicit></item>
+
     <item>
       <title>The Fat Electrician Vs Tactically Acquired | Unsubscribe Podcast 267</title>
       <description>Doubletap tea is available now! https://drinkechelon.com
